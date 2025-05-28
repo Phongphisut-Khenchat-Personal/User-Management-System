@@ -17,8 +17,8 @@ A modern, responsive user management system built with CodeIgniter 3 and Bootstr
 🔗 **[View Live Demo](https://your-demo-url.com)** (ถ้ามี)
 
 **Quick Test:**
-- **Admin:** `admin` / `123456`
-- **User:** `user` / `123456`
+- **Admin:** `admin` / `123456789`
+- **User:** `user` / `123456789`
 
 ## ✨ Features
 
